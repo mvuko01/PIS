@@ -6,5 +6,7 @@ namespace ConsoleApp2
 {
     class NewClass
     {
+        int n;
+        float c;
     }
 }
